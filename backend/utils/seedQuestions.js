@@ -153,7 +153,7 @@ const SAMPLE_QUESTIONS = {
       { question: "A,C,E,G,?", optionA: "H", optionB: "I", optionC: "J", optionD: "K", correctAnswer: "B" },
       { question: "100,99,97,94,?", optionA: "90", optionB: "88", optionC: "85", optionD: "82", correctAnswer: "A" },
       { question: "2,3,5,7,11,?", optionA: "12", optionB: "13", optionC: "14", optionD: "15", correctAnswer: "B" },
-      { question: "Z,Y,X,W,?", optionA: "U", optionB: "V", optionC: "W", optionD: "X", correctAnswer: "A" },
+      { question: "Z,Y,X,W,?", optionA: "U", optionB: "V", optionC: "W", optionD: "X", correctAnswer: "B" },
       { question: "Complete pattern: Monday,Wed,Fri,?", optionA: "Sunday", optionB: "Monday", optionC: "Tuesday", optionD: "Saturday", correctAnswer: "A" },
       { question: "A > B, B > C, C > D, shortest?", optionA: "A", optionB: "B", optionC: "C", optionD: "D", correctAnswer: "D" },
       { question: "12,24,36,48,61?", optionA: "12", optionB: "36", optionC: "48", optionD: "61", correctAnswer: "D" },
